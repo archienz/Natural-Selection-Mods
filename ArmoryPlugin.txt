@@ -1,0 +1,14 @@
+Parasite Removing Armory Plugin by Andrew Karpow <andy@resourcecode.de>
+ - Concept by Matt Ferguson <matt@mvpb.com>
+
+- Notice and progressbar at center of infected marine's screen, showing how far along the parasite removal is.
+- [Advanced]-armory can remove parasites from parasited marines ('use' key).
+- If the parasite removal process is interrupted, it must start all over again. (Let go of 'use' key to shoot, walk too far away from the armory, etc. Pretty much all except switch weapon and reload. Knife can also be used without messing up the process.)
+
+CVars:
+nsmm_timedelay - time for parasite removing (Default: 5.0)
+nsmm_advarm - parasite removing only at advanced armorys (Default: 0)
+
+Credits:
+Matt Ferguson <matt@mvpb.com> for Concept
+[WHO]Them and voogru for codesnippets
